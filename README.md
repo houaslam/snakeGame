@@ -8,7 +8,6 @@ Beginning my Python learning journey, I considered creating a game to be an exce
 - [Process](#Process)
 	- [What i learned](##What-i-learned)
 	- [Tools](##built)
-	- [Usefull Links](##links)
 
 # Overview
 
@@ -49,5 +48,4 @@ Beginning my Python learning journey, I considered creating a game to be an exce
 ## Tools
 - [tkinter](https://docs.python.org/3/library/tkinter.html) :  GUI (Graphic User Interface) Python library
 
-## Usefull links
 
